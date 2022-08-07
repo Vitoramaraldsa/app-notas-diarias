@@ -1,6 +1,6 @@
 # app_notas_diarias
 
-Aplicativo que adiciona, armazena, lista, remove e atualiza notas escritas por usuário, os dados são armazenados pelo banco de dados, Sql Lite
+Aplicativo que adiciona, lista, remove e atualiza notas escritas por usuário, os dados são armazenados pelo banco de dados, Sql Lite
 
 ## Getting Started
 
